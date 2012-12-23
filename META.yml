@@ -20,4 +20,4 @@ no_index:
 requires:
   Test::Simple: 0.44
   Text::CSV: 0
-version: 0.02
+version: 0.03
